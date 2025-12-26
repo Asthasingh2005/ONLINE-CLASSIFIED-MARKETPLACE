@@ -286,6 +286,7 @@ function initMap() {
 }
 </script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBOrpDh7ZemVBRv-UVrYt5TsI3F3yoUMIk&callback=initMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=add your google api key dear &callback=initMap"></script>
+
 
 <?php require 'footer.php'; ?>  
